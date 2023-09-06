@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "script.js",
   "scripts": {
+    "build": "webpack --config webpack.config.js",
     "start": "node server.js"
 
   },
